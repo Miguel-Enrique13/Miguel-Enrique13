@@ -21,7 +21,7 @@ Find my resume [here](https://github.com/Miguel-Enrique13/Miguel-Enrique13/blob/
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/miguelguardia13/) 
 
-[![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=miguel-enrique13&hide=stars)](https://github.com/miguel-enrique13/github-readme-stats)
+[![Miguel's github stats](https://github-readme-stats.vercel.app/api?username=miguel-enrique13&hide=stars)](https://github.com/Miguel-Enrique13)
 
 <!--
 **Miguel-Enrique13/Miguel-Enrique13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
