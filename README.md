@@ -1,6 +1,6 @@
 ### Hi there, I'm Miguel 👋
 
-I am a mechanical engineer graduate with a passion for learning, innovation and creative problem solving. My passion and experiences with innovation and creative problem solving are what attracted me to software engineering and the tech industry. 
+I am a mechanical engineer with a passion for learning, innovation and creative problem solving. My passion and experiences with innovation and creative problem solving are what attracted me to software engineering and the tech industry. 
 
 My passion for learning fuelled me to learn a variety of programming languages including Ruby, python, HTML/CSS, SQL, along with the following Frameworks and Databases: Rails and PostgreSQL. The design principles I follow are: Object Oriented Programming (OOP), Model View Controller (MVC), Don’t Repeat Yourself (DRY), Single Responsibility Programming (SRP), and Test Driven Development (TDD). I am experienced with the following technologies and tools: Github, Git, ActiveRecord, Heroku, JSON, Bootstrap, and Travis CI. 
 
