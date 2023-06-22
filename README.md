@@ -4,8 +4,6 @@ I am a mechanical engineer with a passion for learning, innovation and creative 
 
 My passion for learning fuelled me to learn a variety of programming languages including Ruby, python, HTML/CSS, SQL, along with the following Frameworks and Databases: Rails and PostgreSQL. The design principles I follow are: Object Oriented Programming (OOP), Model View Controller (MVC), Don’t Repeat Yourself (DRY), Single Responsibility Programming (SRP), and Test Driven Development (TDD). I am experienced with the following technologies and tools: Github, Git, ActiveRecord, Heroku, JSON, Bootstrap, and Travis CI. 
 
-Find my resume [here](https://github.com/Miguel-Enrique13/Miguel-Enrique13/blob/main/Miguel%20Guardia%20Resume.pdf)
-
 **What I'm working on**
 - Learning Backend Web development
 - Contributing to Open Source projects like [Forem](https://github.com/forem/forem/pull/12797)
